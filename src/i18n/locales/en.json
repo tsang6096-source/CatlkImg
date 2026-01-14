@@ -1,0 +1,142 @@
+{
+  "app": {
+    "name": "CATLK - Smart Image Compressor",
+    "tagline": "Fast, secure, and efficient image compression",
+    "description": "Compress and convert images with ease. All processing happens locally in your browser."
+  },
+  "header": {
+    "title": "CATLK - Smart Image Compressor",
+    "subtitle": "Fast compression, format conversion, maintain high quality"
+  },
+  "settings": {
+    "title": "Processing Settings",
+    "description": "Configure compression and conversion parameters",
+    "targetFormat": "Target Format",
+    "targetFormatDesc": "Select the output image format",
+    "keepOriginal": "Keep Original",
+    "quality": "Compression Quality",
+    "qualityDesc": "Higher quality means larger file size (default 92%)",
+    "processBtn": "Start Processing",
+    "processing": "Processing...",
+    "reprocessBtn": "Regenerate",
+    "downloadAllBtn": "Download All",
+    "clearBtn": "Clear List",
+    "stats": {
+      "total": "Total Images",
+      "completed": "Completed"
+    }
+  },
+  "upload": {
+    "title": "Upload Images",
+    "dragDrop": "Drag and drop images here",
+    "or": "or",
+    "clickToSelect": "Click to select files",
+    "supportedFormats": "Supported formats: PNG, JPG, JPEG, GIF, BMP, WebP",
+    "maxFiles": "Maximum {{count}} images per batch",
+    "getStarted": "Get Started",
+    "getStartedDesc": "Upload images, configure compression parameters, and click \"Start Processing\" to quickly compress and convert image formats"
+  },
+  "image": {
+    "original": "Original",
+    "compressed": "Compressed",
+    "compressionRatio": "Compression Ratio",
+    "download": "Download",
+    "delete": "Delete",
+    "processing": "Processing...",
+    "pending": "Pending",
+    "error": "Error",
+    "completed": "Completed"
+  },
+  "features": {
+    "title": "Why Choose Us?",
+    "security": {
+      "title": "100% Secure",
+      "desc": "All image processing happens locally in your browser. Your images never leave your device."
+    },
+    "fast": {
+      "title": "Lightning Fast",
+      "desc": "Advanced compression algorithms ensure quick processing while maintaining image quality."
+    },
+    "formats": {
+      "title": "Multiple Formats",
+      "desc": "Support for PNG, JPG, JPEG, GIF, BMP, WebP and more popular image formats."
+    },
+    "quality": {
+      "title": "High Quality",
+      "desc": "Adjustable compression quality (1%-100%) to balance file size and image quality."
+    },
+    "batch": {
+      "title": "Batch Processing",
+      "desc": "Process up to 20 images at once, with individual or batch download options."
+    },
+    "free": {
+      "title": "Completely Free",
+      "desc": "No registration required, no watermarks, unlimited usage."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": {
+      "question": "Is my data safe?",
+      "answer": "Absolutely! All image processing happens locally in your browser. Your images are never uploaded to any server, ensuring complete privacy and security."
+    },
+    "q2": {
+      "question": "What image formats are supported?",
+      "answer": "We support all popular image formats including PNG, JPG, JPEG, GIF, BMP, and WebP. You can convert between any of these formats."
+    },
+    "q3": {
+      "question": "How many images can I compress at once?",
+      "answer": "To ensure optimal browser performance, you can process up to 20 images per batch. For larger batches, simply process them in multiple rounds."
+    },
+    "q4": {
+      "question": "Will compression reduce image quality?",
+      "answer": "You have full control over the compression quality (1%-100%). At 92% (default), most images maintain excellent visual quality while significantly reducing file size."
+    },
+    "q5": {
+      "question": "Do I need to install any software?",
+      "answer": "No installation required! This is a web-based tool that works directly in your browser. Just visit the website and start compressing."
+    },
+    "q6": {
+      "question": "Is there a file size limit?",
+      "answer": "There's no strict file size limit, but very large images may take longer to process. For best performance, we recommend images under 10MB each."
+    },
+    "q7": {
+      "question": "Can I use this for commercial purposes?",
+      "answer": "Yes! You can use the compressed images for any purpose, including commercial projects. However, unauthorized copying or redistribution of this tool's source code is prohibited."
+    },
+    "q8": {
+      "question": "What happens to my images after processing?",
+      "answer": "Since all processing happens in your browser, your images are never stored anywhere. Once you close the browser tab, all data is immediately cleared."
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 CATLK - Smart Image Compressor - All image processing happens locally in your browser, protecting your privacy",
+    "version": "Version {{version}} | Unauthorized commercial use and code copying are prohibited",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact Us"
+  },
+  "toast": {
+    "uploadSuccess": "Images uploaded successfully",
+    "uploadError": "Failed to upload images",
+    "processSuccess": "Successfully processed {{count}} images",
+    "processError": "Failed to process images",
+    "downloadSuccess": "Download started",
+    "downloadError": "Failed to download",
+    "limitExceeded": "Image limit exceeded",
+    "limitExceededDesc": "To ensure processing quality, maximum {{max}} images per batch. Currently {{current}} images, can add {{remaining}} more.",
+    "noPendingImages": "No pending images",
+    "noPendingImagesDesc": "All images have been processed",
+    "noCompletedImages": "No completed images",
+    "noCompletedImagesDesc": "Please process images first",
+    "pleaseUpload": "Please upload images",
+    "pleaseUploadDesc": "Please select image files to process",
+    "reprocessComplete": "Reprocessing complete",
+    "reprocessSuccess": "Successfully reprocessed {{count}} images"
+  },
+  "seo": {
+    "title": "CATLK - Smart Image Compressor - Free Online Image Compression Tool",
+    "description": "Free online image compression and format conversion tool. Support PNG, JPG, WebP and more. All processing happens locally in your browser, 100% secure and private.",
+    "keywords": "image compression, image converter, PNG compression, JPG compression, WebP converter, online image tool, free image compressor, CATLK"
+  }
+}

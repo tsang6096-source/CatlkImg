@@ -1,0 +1,142 @@
+{
+  "app": {
+    "name": "CATLK - 智能图片压缩",
+    "tagline": "快速、安全、高效的图片压缩",
+    "description": "轻松压缩和转换图片。所有处理都在您的浏览器本地完成。"
+  },
+  "header": {
+    "title": "CATLK - 智能图片压缩",
+    "subtitle": "快速压缩图片，支持格式转换，保持高质量"
+  },
+  "settings": {
+    "title": "处理设置",
+    "description": "配置压缩和转换参数",
+    "targetFormat": "目标格式",
+    "targetFormatDesc": "选择转换后的图片格式",
+    "keepOriginal": "保持原格式",
+    "quality": "压缩质量",
+    "qualityDesc": "质量越高，文件越大（默认92%）",
+    "processBtn": "开始处理",
+    "processing": "处理中...",
+    "reprocessBtn": "重新生成",
+    "downloadAllBtn": "下载全部",
+    "clearBtn": "清空列表",
+    "stats": {
+      "total": "总图片数",
+      "completed": "已完成"
+    }
+  },
+  "upload": {
+    "title": "上传图片",
+    "dragDrop": "拖拽图片到这里",
+    "or": "或",
+    "clickToSelect": "点击选择文件",
+    "supportedFormats": "支持格式：PNG、JPG、JPEG、GIF、BMP、WebP",
+    "maxFiles": "单次最多 {{count}} 张图片",
+    "getStarted": "开始使用",
+    "getStartedDesc": "上传图片后，配置压缩参数，点击\"开始处理\"即可快速压缩和转换图片格式"
+  },
+  "image": {
+    "original": "原图",
+    "compressed": "压缩后",
+    "compressionRatio": "压缩率",
+    "download": "下载",
+    "delete": "删除",
+    "processing": "处理中...",
+    "pending": "待处理",
+    "error": "错误",
+    "completed": "已完成"
+  },
+  "features": {
+    "title": "为什么选择我们？",
+    "security": {
+      "title": "100% 安全",
+      "desc": "所有图片处理都在您的浏览器本地完成。您的图片永远不会离开您的设备。"
+    },
+    "fast": {
+      "title": "闪电般快速",
+      "desc": "先进的压缩算法确保快速处理，同时保持图片质量。"
+    },
+    "formats": {
+      "title": "多种格式",
+      "desc": "支持 PNG、JPG、JPEG、GIF、BMP、WebP 等主流图片格式。"
+    },
+    "quality": {
+      "title": "高质量",
+      "desc": "可调节压缩质量（1%-100%），平衡文件大小和图片质量。"
+    },
+    "batch": {
+      "title": "批量处理",
+      "desc": "一次处理最多 20 张图片，支持单个或批量下载。"
+    },
+    "free": {
+      "title": "完全免费",
+      "desc": "无需注册，无水印，无限制使用。"
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "q1": {
+      "question": "我的数据安全吗？",
+      "answer": "绝对安全！所有图片处理都在您的浏览器本地完成。您的图片永远不会上传到任何服务器，确保完全的隐私和安全。"
+    },
+    "q2": {
+      "question": "支持哪些图片格式？",
+      "answer": "我们支持所有主流图片格式，包括 PNG、JPG、JPEG、GIF、BMP 和 WebP。您可以在这些格式之间自由转换。"
+    },
+    "q3": {
+      "question": "一次可以压缩多少张图片？",
+      "answer": "为确保浏览器性能最佳，单次最多可以处理 20 张图片。如需处理更多图片，可以分多次进行。"
+    },
+    "q4": {
+      "question": "压缩会降低图片质量吗？",
+      "answer": "您可以完全控制压缩质量（1%-100%）。在 92%（默认值）时，大多数图片都能保持出色的视觉质量，同时显著减小文件大小。"
+    },
+    "q5": {
+      "question": "需要安装软件吗？",
+      "answer": "无需安装！这是一个基于网页的工具，直接在浏览器中运行。只需访问网站即可开始压缩。"
+    },
+    "q6": {
+      "question": "有文件大小限制吗？",
+      "answer": "没有严格的文件大小限制，但非常大的图片可能需要更长的处理时间。为获得最佳性能，建议每张图片不超过 10MB。"
+    },
+    "q7": {
+      "question": "可以用于商业用途吗？",
+      "answer": "可以！您可以将压缩后的图片用于任何用途，包括商业项目。但是，未经授权复制或重新分发本工具的源代码是被禁止的。"
+    },
+    "q8": {
+      "question": "处理后的图片会保存在哪里？",
+      "answer": "由于所有处理都在浏览器中进行，您的图片不会存储在任何地方。一旦关闭浏览器标签页，所有数据都会立即清除。"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 CATLK - 智能图片压缩 - 所有图片处理均在浏览器本地完成，保护您的隐私",
+    "version": "版本 {{version}} | 未经授权的商业使用和代码复制是被禁止的",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "contact": "联系我们"
+  },
+  "toast": {
+    "uploadSuccess": "图片上传成功",
+    "uploadError": "图片上传失败",
+    "processSuccess": "成功处理 {{count}} 张图片",
+    "processError": "图片处理失败",
+    "downloadSuccess": "开始下载",
+    "downloadError": "下载失败",
+    "limitExceeded": "图片数量超限",
+    "limitExceededDesc": "为保证处理质量，单次最多处理 {{max}} 张图片。当前已有 {{current}} 张，最多还能添加 {{remaining}} 张。",
+    "noPendingImages": "没有待处理的图片",
+    "noPendingImagesDesc": "所有图片都已处理完成",
+    "noCompletedImages": "没有可下载的图片",
+    "noCompletedImagesDesc": "请先处理图片",
+    "pleaseUpload": "请先上传图片",
+    "pleaseUploadDesc": "请选择要处理的图片文件",
+    "reprocessComplete": "重新处理完成",
+    "reprocessSuccess": "成功处理 {{count}} 张图片"
+  },
+  "seo": {
+    "title": "CATLK - 智能图片压缩 - 免费在线图片压缩工具",
+    "description": "免费在线图片压缩和格式转换工具。支持 PNG、JPG、WebP 等格式。所有处理都在浏览器本地完成，100% 安全私密。",
+    "keywords": "图片压缩, 图片转换, PNG压缩, JPG压缩, WebP转换, 在线图片工具, 免费图片压缩, CATLK"
+  }
+}
