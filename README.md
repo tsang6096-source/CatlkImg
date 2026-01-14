@@ -223,11 +223,3 @@ CATLK - 智能图片压缩 - 一个专业的在线图片压缩处理平台，支
 
 配置环境变量，安装相关依赖
 如需使用数据库，请使用 supabase 官方版本或自行部署开源版本的 Supabase
-
-### 如何配置应用中的三方 API？
-
-具体三方 API 调用方法，请参考帮助文档：[源码导出](https://cloud.baidu.com/doc/MIAODA/s/Xmewgmsq7)，了解更多详细内容。
-
-## 了解更多
-
-您也可以查看帮助文档：[源码导出](https://cloud.baidu.com/doc/MIAODA/s/Xmewgmsq7)，了解更多详细内容。
